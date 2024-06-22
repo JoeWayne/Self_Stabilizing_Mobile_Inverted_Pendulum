@@ -1,7 +1,7 @@
 
 # Self-Stabilizing Mobile Inverted Pendulum (MiP)
 
-This repository contains the code and documentation for the Self-Stabilizing Mobile Inverted Pendulum.  This was created for UCSD MAE 144: Embedded Controls and Robotics.
+This BeagleBone Blue project contains the code and documentation for the Self-Stabilizing Mobile Inverted Pendulum.  This was created for UCSD MAE 144: Embedded Controls and Robotics.
 
 ## Problem 1: Stabilizing Body Angle
 
